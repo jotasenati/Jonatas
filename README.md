@@ -29,5 +29,5 @@
   <a href = "mailto:jsenadiniz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
-  ![Snake animation](https://github.com/jotasenati/Jonatas/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jotasenati/jotasenati/blob/output/github-contribution-grid-snake.svg)
   
